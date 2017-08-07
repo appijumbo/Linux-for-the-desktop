@@ -6,4 +6,4 @@ It is called a 'recipe' because just like a food recipe it can be adapted to sui
 ## Please got to
 
 
-<a href="https://github.com/appijumbo/linux_mint_installation_recipe/wiki/Are-you-ready-for-Linux-on-the-desktop%3F"><img src="linux_mint_recipe_1.svg" width="800"></a>
+<a href="https://github.com/appijumbo/linux_mint_installation_recipe/wiki/Are-you-ready-for-Linux-on-the-desktop%3F"><img src="mint_rec_1.png" width="800"></a>
