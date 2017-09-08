@@ -1,4 +1,4 @@
-# [Linux Mint Installation Recipe](https://github.com/appijumbo/linux_mint_installation_recipe/wiki/Table-of-Contents)
+# [Linux Mint Installation Recipe](https://github.com/appijumbo/linux_mint_installation_recipe/wiki/0-Introduction)
 This guide is mainly intended for people coming from Window to Linux and in particular Linux Mint.
 
 It is called a 'recipe' because just like a food recipe it can be adapted to suit the 'flavour' of the readers needs but at the same time provides some structure. It is not by any means considered to be 'perfect' or ideal, but a pragmatic series of steps that can be followed and built upon.
@@ -6,4 +6,4 @@ It is called a 'recipe' because just like a food recipe it can be adapted to sui
 ## Please got to
 
 
-<a href="https://github.com/appijumbo/linux_mint_installation_recipe/wiki/Table-of-Contents"><img src="mint_rec_1.png" width="800"></a>
+<a href="https://github.com/appijumbo/linux_mint_installation_recipe/wiki/0-Introduction"><img src="mint_rec_1.png" width="800"></a>
