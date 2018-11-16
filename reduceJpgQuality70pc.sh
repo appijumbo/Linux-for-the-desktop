@@ -1,14 +1,15 @@
 #/!/bin/bash
 
+# Save in Linux Mint Nemo filemanager at  
+# ~/.local/share/nemo/scripts
+
+# Check imagemagick dependancy is installed
 if [$(which convert)=""];then
     sudo apt install -y imagemagick > /dev/null
 fi
 
-CURRENT_DIR=$(basename $(pwd))
+mkdir ./compressed
 
-COMPRESSED_DIR="$CURRENT_DIR compressed"
+for f in *.JPG; do convert "$f" -quality 70 compressed/"$f"; done 
 
-mkdir ./COMPRESSED_DIR
-
-
-for f in *.JPG; do convert "$f" -quality 70 COMPRESSED_DIR/"$f"; done 
+for f in *.jpg; do convert "$f" -quality 70 compressed/"$f"; done 
